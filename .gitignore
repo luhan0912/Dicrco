@@ -1,0 +1,23 @@
+# Bảo mật token
+token.txt
+proxy.txt
+
+# Node modules
+node_modules/
+package-lock.json
+yarn.lock
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

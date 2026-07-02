@@ -1,0 +1,4 @@
+# Paste token bot của bạn vào đây (mỗi token một dòng)
+# Example:
+# MTE5MzI4MDAyMTg4NzEzNDcyOA.GxAbcd.abc123xyz789
+# MjI4NzYwMTI1NTEyMzQ1NjcwNA.GxDefgh.def456abc789

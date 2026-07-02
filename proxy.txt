@@ -1,0 +1,6 @@
+# Paste proxy của bạn vào đây (mỗi proxy một dòng)
+# Nếu không dùng proxy, để trống file này
+# Example:
+# http://proxy1:port
+# http://proxy2:port
+# http://proxy3:port

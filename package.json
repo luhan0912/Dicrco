@@ -1,0 +1,18 @@
+{
+  "name": "discord-bot-110-profiles",
+  "version": "1.0.0",
+  "description": "Discord Bot 110 hồ sơ tự động chat với giả mạo thông tin thiết bị",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "node bot.js"
+  },
+  "keywords": ["discord", "bot", "auto", "chat", "110-profiles"],
+  "author": "luhan0912",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "http-proxy-agent": "^7.0.2",
+    "https-proxy-agent": "^7.0.2"
+  }
+}
